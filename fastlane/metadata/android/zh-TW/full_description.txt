@@ -4,11 +4,11 @@ Droynis 會檢查您手機的安全性與隱私權設定，以清晰白話解釋
 
 <b>檢查項目</b>
 <ul>
-<li>裝置完整性：安全性更新、加密狀態、Bootloader、Root 權限、SELinux</li>
+<li>裝置完整性：安全性更新、加密狀態、Bootloader、Root 權限、SELinux、SD 卡、具備無法修補之開機漏洞的晶片、StrongBox</li>
 <li>存取控制：螢幕鎖定、生物辨識、USB 偵錯、SIM 卡 PIN 碼</li>
-<li>應用程式與權限：無障礙服務、裝置管理員、側載應用程式</li>
+<li>應用程式與權限：無障礙服務、裝置管理員、側載應用程式、Shizuku、Termux 與 adb 授權</li>
 <li>可疑應用程式：隱匿應用程式、背景使用相機/麥克風、木馬權限特徵</li>
-<li>網路：私人 DNS、VPN、Wi-Fi、憑證、2G、藍牙、NFC</li>
+<li>網路：私人 DNS、VPN、Wi-Fi、憑證、2G、來電轉接、藍牙、NFC</li>
 </ul>
 
 <b>誠實呈現結果</b>
